@@ -1,14 +1,8 @@
-<html>
-<head>
-</head>
-<body>
-<h1 style="color:#00ff00;">JTable-Style-Metro-JAVA</h1>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="JLWEAETTE3H28">
-<input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-</form>
-</body>
-</html>
+# JTable-Style-Metro-JAVA
 
+Tabla personalizadada para tus aplicaciones de escritorio en java.... Puedes ayudarme con tus donaciónes para seguir creciendo, GRACIAS.
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JLWEAETTE3H28">
+<img src="https://camo.githubusercontent.com/f896f7d176663a1559376bb56aac4bdbbbe85ed1/68747470733a2f2f7777772e70617970616c6f626a656374732e636f6d2f656e5f55532f692f62746e2f62746e5f646f6e61746543435f4c472e676966" 
+alt="Donate" data-canonical-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="max-width:100%;">
+</a>
