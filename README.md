@@ -1,4 +1,4 @@
-# JTable-Style-Metro-JAVA
+# JTable-Style-Metro-JAVA v1.0
 
 Tabla personalizadada para tus aplicaciones de escritorio en java.... Puedes ayudarme con tus donaciónes para seguir creciendo, GRACIAS.
 
